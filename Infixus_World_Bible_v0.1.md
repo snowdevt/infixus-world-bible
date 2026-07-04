@@ -98,22 +98,109 @@ Criados por pesquisadores. Nunca são perfeitos e podem:
 
 Cada raça possui características próprias, como Afinidade, Fraqueza, Ciclo de vida e Produção de Lume.
 
-### Raças Conhecidas
+### 🌱 Grandes Famílias Raciais
 
-- 🧑 **Humano**
-  - **Atributos:** Equilibrado, sem bônus.
-  - **Fraquezas:** Sem fraquezas naturais.
-  - **Expectativa de Vida:** ~80 anos.
+Devido ao tamanho praticamente infinito de Astera, catalogar todas as espécies é impossível.
 
-- 🐺 **Henatorm**
-  - **Atributos:** Alta velocidade e força.
-  - **Fraquezas:** Pouca reserva de Lume, vulnerabilidade à luz intensa.
-  - **Expectativa de Vida:** Curta.
+Por esse motivo, estudiosos passaram a classificá-las em **Grandes Famílias**, grupos que compartilham características biológicas e espirituais semelhantes.
 
-- 🌿 **Sylven**
-  - **Atributos:** Raça extremamente rara. Mistura de humano, espírito e organismo vegetal. Aparência quase humana. Enorme afinidade com Lume e regeneração elevada.
-  - **Fraquezas:** Corpo delicado.
-  - **Expectativa de Vida:** Longa.
+Uma família pode possuir desde poucas espécies conhecidas até milhares.
+
+Novas espécies continuam sendo descobertas constantemente.
+
+Atualmente não existe consenso sobre quantas Grandes Famílias realmente existem.
+
+
+#### 🧑 Humanos
+
+A família humana é considerada a mais adaptável de Astera.
+
+Não possuem características físicas extraordinárias, porém conseguem viver em praticamente qualquer Domínio.
+
+Características gerais:
+
+- Desenvolvimento lento porém constante.
+- Afinidade equilibrada com Lume.
+- Grande diversidade cultural.
+- Reprodução rápida.
+- Facilidade para aprender Técnicas de Altar.
+
+Espécies conhecidas:
+
+- Humanos Comuns
+- Highlanders
+- Vesperianos
+- (etc...)
+
+#### 🐺 Bestiais
+
+Raças que evoluíram a partir da fusão entre animais e Lume.
+
+Apesar da aparência animal, possuem inteligência comparável à humana.
+
+Características gerais:
+
+- Grande capacidade física.
+- Sentidos extremamente desenvolvidos.
+- Menor afinidade natural com Lume.
+- Vida relativamente curta.
+
+Espécies conhecidas:
+
+- Henatorm
+- Felkar
+- Urskan
+- Raxin
+
+#### 👻 Espirituais
+
+Seres cuja existência é parcialmente composta por energia espiritual.
+
+Seus corpos não seguem completamente as leis biológicas tradicionais.
+
+Características gerais:
+
+- Grande reserva de Lume.
+- Corpo físico menos resistente.
+- Grande facilidade para manipulação energética.
+- Ciclo de vida extremamente variável.
+
+Espécies conhecidas:
+
+- Sylven
+- Lumari
+- Etherborn
+
+#### 🪨 Primordiais
+
+Raças extremamente antigas.
+
+Acredita-se que algumas existam desde antes do surgimento dos primeiros registros históricos.
+
+Características gerais:
+
+- Crescimento muito lento.
+- Longa expectativa de vida.
+- Corpos extremamente resistentes.
+- Evolução quase inexistente após a maturidade.
+
+Espécies conhecidas:
+
+- Gigantes
+- Colossos
+- Lithari
+
+### 👁 Aberrantes
+
+Nem todas as espécies conseguem ser classificadas.
+
+Algumas apresentam características incompatíveis com qualquer Grande Família conhecida.
+
+Essas espécies recebem temporariamente a classificação de Aberrantes.
+
+Ser um Aberrante não significa ser maligno.
+
+Significa apenas que sua origem permanece desconhecida.
 
 ### ❓ Raças Desconhecidas
 Como o universo é infinito, é impossível catalogar todas as raças. Análises podem frequentemente retornar:
