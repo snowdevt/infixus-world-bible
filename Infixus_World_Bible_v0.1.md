@@ -1,4 +1,4 @@
-# 🌍 Infixus - World Bible (DRAFT v0.1)
+# 🌍 Infixus - World Bible (DRAFT v0.2)
 
 ---
 
@@ -219,6 +219,122 @@ Uma organização neutra responsável por documentar o mundo, embora o registro 
 
 ---
 
+## 🏛️ Organizações
+
+Devido ao tamanho praticamente infinito de Astera, não existe um governo central capaz de controlar todo o mundo.
+
+Em vez disso, diferentes organizações surgiram ao longo da história para cumprir funções específicas.
+
+Algumas são respeitadas mundialmente.
+
+Outras existem apenas em certos Domínios.
+
+Algumas são neutras.
+
+Outras influenciam diretamente guerras, comércio e exploração.
+
+### 📚 Registro Global
+
+**Tipo:** Organização Neutra
+
+O Registro Global é considerado a maior organização de pesquisa já criada.
+
+Sua função é documentar o universo conhecido.
+
+Eles registram:
+
+- espécies
+- criaturas
+- plantas
+- Domínios
+- Orbitais
+- Núcleos
+- Impacts
+- Técnicas
+- Altares
+- acontecimentos históricos
+
+O Registro Global não possui autoridade política.
+
+Sua influência vem da confiabilidade de seus documentos.
+
+Qualquer explorador pode enviar descobertas.
+
+As informações passam por diversos pesquisadores antes de serem consideradas oficiais.
+
+Mesmo assim, boa parte do universo continua completamente desconhecida.
+
+### 🧭 Guilda dos Exploradores
+
+**Tipo:** Organização Internacional
+
+Responsável por incentivar e organizar expedições.
+
+Funções:
+
+- criação de mapas
+- rotas comerciais
+- resgate de exploradores
+- investigação de novos Domínios
+- catalogação de perigos
+
+A Guilda também distribui licenças oficiais para exploradores.
+
+Essas licenças aumentam o reconhecimento do aventureiro em diversos Domínios.
+
+Quanto maior a licença...
+
+mais perigoso é esperado que seja seu trabalho.
+
+### ⚖️ Conselho dos Altares
+
+**Tipo:** Organização Científica
+
+Criada para estudar os Altares.
+
+O Conselho proíbe oficialmente a produção de Altares Artificiais.
+
+Entretanto...
+
+existem diversos membros que secretamente continuam essas pesquisas.
+
+
+### ⚔️ Companhias Livres
+
+Não existe uma única organização mercenária.
+
+Existem milhares.
+
+As Companhias Livres aceitam:
+
+- escoltas
+- guerras
+- caçadas
+- proteção
+- investigação
+
+Algumas possuem poucos membros.
+
+Outras controlam cidades inteiras.
+
+### 💰 Consórcio Comercial
+
+Maior organização econômica conhecida.
+
+Responsável por:
+
+- transporte entre Domínios
+- comércio internacional
+- bancos
+- seguros
+- investimentos
+
+Embora oficialmente neutro...
+
+muitos acreditam que controla governos através da economia.
+
+---
+
 ## 👤 Personagens
 
 ### Protagonista: Lushy
@@ -252,9 +368,74 @@ Uma organização neutra responsável por documentar o mundo, embora o registro 
 
 ---
 
+## 💰 Economia
+
+Não existe uma moeda universal.
+
+Cada civilização desenvolveu sua própria economia.
+
+Mesmo assim, alguns padrões surgiram naturalmente.
+
+### Fragmentos de Lume
+
+Durante milhares de anos foi descoberto que o Lume pode cristalizar naturalmente.
+
+Esses cristais são chamados de Fragmentos de Lume.
+
+Eles possuem enorme valor por poderem alimentar ferramentas, veículos e diversos equipamentos.
+
+Quanto maior sua pureza...
+
+maior seu valor.
+
+Em muitos Domínios, Fragmentos de Lume são utilizados como moeda.
+
+### Moedas
+
+Apesar dos Fragmentos de Lume serem amplamente aceitos, muitas nações utilizam moedas próprias.
+
+Por esse motivo, casas de câmbio são extremamente comuns.
+
+### Recursos Valiosos
+
+Os recursos mais valorizados variam conforme o Domínio.
+
+Alguns exemplos:
+
+- Fragmentos de Lume
+- mapas inéditos
+- registros de espécies
+- Técnicas de Altar nunca documentadas
+- materiais de criaturas
+- plantas raras
+- metais únicos
+- informações
+
+### 🏆 Sistema de Descobertas
+
+Imagina que você encontra uma espécie nova.
+
+Você registra.
+
+Pronto.
+
+Ela passa a existir oficialmente.
+
+Você recebe:
+
+- dinheiro;
+- reconhecimento;
+- prioridade em pesquisas futuras.
+
+O mesmo vale para:
+
+- um Domínio novo;
+- uma Técnica inédita;
+- uma planta;
+- uma criatura;
+- um minério.
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Organizações
-- [ ] Economia
 - [ ] Idiomas
 - [ ] Criaturas
 - [ ] Fauna
