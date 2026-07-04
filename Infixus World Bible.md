@@ -435,9 +435,173 @@ O mesmo vale para:
 - uma criatura;
 - um minério.
 
+---
+
+## 🗣️ Idiomas
+
+Assim como as espécies, é impossível catalogar todos os idiomas existentes em Astera.
+
+Cada Domínio desenvolveu sua própria linguagem ao longo dos séculos.
+
+Entretanto, estudiosos classificam os idiomas em **Famílias Linguísticas**, permitindo compreender suas origens e relações.
+
+Idiomas pertencentes à mesma família costumam compartilhar palavras, estruturas e pronúncias semelhantes.
+
+### 📖 Língua Comum
+
+O crescimento do comércio e das explorações fez surgir um idioma internacional conhecido apenas como **Língua Comum**.
+
+Ela não pertence a nenhuma nação.
+
+Foi construída naturalmente ao longo dos séculos através do contato entre comerciantes, exploradores e estudiosos.
+
+Atualmente é o idioma mais utilizado entre Domínios diferentes.
+
+Quase todos os exploradores profissionais aprendem a Língua Comum.
+
+### 🌐 Famílias Linguísticas
+
+Algumas das famílias conhecidas incluem:
+
+#### Humanas
+
+Originadas das civilizações humanas.
+
+Grande diversidade de dialetos.
+
+---
+
+#### Bestiais
+
+Idiomas marcados por sons curtos, assobios, rosnados e mudanças rápidas de tom.
+
+Muitas espécies Bestiais conseguem transmitir emoções apenas pela entonação.
+
+---
+
+#### Espirituais
+
+Idiomas extremamente antigos.
+
+Algumas palavras não possuem tradução conhecida.
+
+Diversos rituais utilizam esse grupo linguístico.
+
+---
+
+#### Primordiais
+
+Considerados os idiomas mais antigos ainda existentes.
+
+Pouquíssimos indivíduos conseguem compreendê-los completamente.
+
+Muitos pesquisadores acreditam que diversos Altares utilizam inscrições pertencentes a essa família.
+
+---
+
+#### Desconhecidas
+
+Centenas de idiomas registrados ainda não puderam ser associados a nenhuma família.
+
+### ✒️ Sistemas de Escrita
+
+Nem todos os idiomas compartilham o mesmo alfabeto.
+
+Algumas culturas utilizam:
+
+- alfabetos fonéticos;
+- ideogramas;
+- runas;
+- símbolos geométricos;
+- inscrições baseadas em Lume.
+
+Muitos sistemas de escrita antigos permanecem indecifrados.
+
+---
+
+## 🐲 Criaturas
+
+Criaturas são organismos vivos que não pertencem necessariamente às Grandes Famílias Raciais.
+
+Algumas possuem inteligência semelhante à humana.
+
+Outras agem apenas por instinto.
+
+Nem toda criatura pode desenvolver linguagem ou sociedades.
+
+Algumas espécies extremamente inteligentes ainda são classificadas como criaturas devido à ausência de cultura própria.
+
+### 📚 Classificação Biológica
+
+As criaturas são divididas em categorias utilizadas pelo Registro Global.
+
+#### Selvagens
+
+Animais comuns.
+
+Pouca afinidade com Lume.
+
+---
+
+#### Lumínicas
+
+Organismos naturalmente adaptados ao Lume.
+
+Costumam possuir habilidades especiais.
+
+---
+
+#### Colossais
+
+Criaturas gigantescas.
+
+Frequentemente alteram ecossistemas inteiros.
+
+---
+
+#### Anômalas
+
+Criaturas que desafiam o conhecimento científico atual.
+
+Seu comportamento ou biologia contradizem registros conhecidos.
+
+---
+
+#### Extintas
+
+Espécies oficialmente consideradas desaparecidas.
+
+Novos registros ainda podem alterar essa classificação.
+
+### 🧠 Inteligência
+
+O Registro Global não classifica criaturas pela força.
+
+Em vez disso, utiliza o Grau Cognitivo.
+
+**Classe I**
+
+Instinto puro.
+
+**Classe II**
+
+Aprendizado simples.
+
+**Classe III**
+
+Comunicação básica.
+
+**Classe IV**
+
+Raciocínio complexo.
+
+**Classe V**
+
+Inteligência equivalente ou superior à humana.
+
+---
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Idiomas
-- [ ] Criaturas
 - [ ] Fauna
 - [ ] Flora
 - [ ] Religiões
