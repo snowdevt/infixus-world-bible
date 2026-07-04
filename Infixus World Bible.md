@@ -875,10 +875,79 @@ A exploração é considerada uma forma de devoção.
 
 Descobrir algo novo significa compreender um pouco mais da criação.
 
+---
 
+## 📜 História do Mundo
+
+A verdadeira origem de Astera permanece completamente desconhecida.
+
+Nenhum registro confiável descreve como o universo surgiu, quando surgiu ou por que surgiu.
+
+Diversas religiões, filósofos e pesquisadores apresentam teorias diferentes, porém nenhuma delas pôde ser comprovada.
+
+Por esse motivo, historiadores não utilizam a criação do mundo como referência cronológica.
+
+Toda a história documentada de Astera começa a partir do Primeiro Registro.
+
+### 📖 O Primeiro Registro
+
+O Primeiro Registro representa o documento histórico mais antigo cuja autenticidade foi confirmada pelo Registro Global.
+
+Seu autor permanece desconhecido.
+
+O documento descreve apenas pequenas observações sobre um Domínio, suas criaturas e o céu.
+
+Nenhuma informação sobre a origem do universo é apresentada.
+
+Por convenção histórica, o Primeiro Registro marca o início do calendário utilizado por grande parte das civilizações modernas.
+
+### Era da Descoberta
+
+Durante séculos após o Primeiro Registro, diferentes civilizações passaram a explorar os Domínios conhecidos.
+
+Grande parte do conhecimento atual sobre fauna, flora e geografia surgiu nesse período.
+
+Foi também nessa época que diversas Grandes Famílias Raciais estabeleceram seus primeiros contatos documentados.
+
+### Era das Rotas
+
+Com o crescimento da exploração, começaram a surgir rotas relativamente seguras entre Domínios.
+
+O comércio tornou-se cada vez mais frequente.
+
+Diversas cidades cresceram rapidamente graças à circulação de pessoas e recursos.
+
+### Era dos Altares
+
+Pesquisadores iniciaram as primeiras investigações sistemáticas sobre os Altares.
+
+Foi nesse período que surgiram as primeiras Técnicas oficialmente registradas.
+
+Apesar dos avanços científicos, a origem dos Altares permaneceu completamente desconhecida.
+
+### Era da Catalogação
+
+Com o aumento das expedições, tornou-se impossível organizar todas as descobertas de maneira informal.
+
+Diversas instituições de pesquisa uniram esforços, dando origem ao Registro Global.
+
+Pela primeira vez, espécies, Domínios, fenômenos e documentos passaram a seguir padrões internacionais de catalogação.
+
+### Era Atual
+
+O universo conhecido continua em constante expansão.
+
+Novos Domínios são descobertos regularmente.
+
+Espécies desconhecidas continuam sendo registradas.
+
+Nenhuma teoria conseguiu explicar definitivamente a origem do Lume, dos Núcleos ou dos Altares.
+
+A exploração permanece como a principal força responsável pelo avanço das civilizações.
+
+---
 
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] História do mundo
 - [ ] Governos
 - [ ] Linha do tempo
 - [ ] Glossário
