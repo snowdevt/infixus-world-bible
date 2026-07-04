@@ -601,9 +601,175 @@ Inteligência equivalente ou superior à humana.
 
 ---
 
+## 🌿 Fauna & Flora
+
+Astera abriga uma biodiversidade praticamente infinita.
+
+A combinação entre Domínios, Orbitais e diferentes concentrações de Lume permitiu que a vida evoluísse de formas extremamente distintas.
+
+Nem toda forma de vida utiliza Lume da mesma maneira.
+
+Algumas espécies sequer parecem seguir princípios biológicos conhecidos.
+
+Devido à constante descoberta de novas espécies, o Registro Global atualiza continuamente suas classificações.
+
+### 🌱 Flora
+
+As plantas de Astera desempenham um papel muito maior do que simplesmente compor a paisagem.
+
+Diversas espécies são utilizadas como alimento, medicina, construção, combustível ou até mesmo fonte de energia.
+
+Algumas desenvolveram mecanismos capazes de absorver, armazenar ou liberar Lume naturalmente.
+
+#### 📖 Classificação Botânica
+
+O Registro Global divide a flora em cinco categorias principais.
+
+##### Comum
+
+Espécies que apresentam comportamento semelhante ao da vegetação encontrada na Terra.
+
+Possuem pouca ou nenhuma interação com o Lume.
+
+---
+
+##### Lumínica
+
+Absorvem Lume naturalmente.
+
+São utilizadas em poções, ferramentas e equipamentos.
+
+---
+
+##### Simbiótica
+
+Vivem em associação direta com outros organismos.
+
+Algumas dependem completamente de determinadas criaturas para sobreviver.
+
+---
+
+##### Anômala
+
+Apresentam características que desafiam a biologia conhecida.
+
+Seu funcionamento ainda é objeto de pesquisa.
+
+---
+
+##### Primordial
+
+Espécies extremamente antigas.
+
+Alguns indivíduos possuem idade superior à de civilizações inteiras.
+
+---
+
+#### 🌳 Florestas Vivas
+
+Nem todas as florestas são apenas conjuntos de árvores.
+
+Algumas compartilham Lume entre todas as plantas que as compõem, funcionando como um único organismo gigantesco.
+
+Essas florestas conseguem reagir lentamente à presença de invasores, mudanças climáticas e grandes concentrações de energia.
+
+Apesar disso, não são consideradas criaturas conscientes.
+
+---
+
+### 🐾 Fauna
+
+A fauna de Astera apresenta enorme diversidade devido às diferenças entre os Domínios.
+
+Enquanto algumas espécies evoluíram para sobreviver em ambientes extremos, outras ocupam nichos ecológicos impossíveis de serem encontrados em qualquer outro lugar.
+
+#### 📖 Classificação Zoológica
+
+Além do Grau Cognitivo, o Registro Global utiliza categorias ecológicas para descrever o comportamento das espécies.
+
+##### Comuns
+
+Pouca afinidade com Lume.
+
+Compõem a base da maioria dos ecossistemas.
+
+---
+
+##### Lumínicas
+
+Utilizam Lume naturalmente durante sua vida.
+
+Muitas desenvolveram órgãos especializados para armazenar energia.
+
+---
+
+##### Apex
+
+Predadores ou herbívoros que ocupam o topo de seus ecossistemas.
+
+Sua presença altera significativamente o equilíbrio de um Domínio.
+
+---
+
+##### Colossais
+
+Criaturas gigantescas.
+
+Algumas possuem tamanho comparável ao de cidades.
+
+Seu deslocamento modifica rios, florestas e montanhas.
+
+---
+
+##### Migratórias
+
+Espécies capazes de atravessar grandes distâncias entre Domínios ou Orbitais.
+
+Algumas migrações levam séculos para serem concluídas.
+
+Seu aparecimento costuma atrair expedições de pesquisadores e exploradores.
+
+---
+
+### 🌎 Ecossistemas
+
+Cada Domínio desenvolve ecossistemas próprios.
+
+Mudanças em sua gravidade, fluxo de Lume, clima ou passagem do tempo influenciam diretamente a fauna e a flora locais.
+
+Como consequência, espécies semelhantes podem apresentar diferenças drásticas entre Domínios distintos.
+
+### 🌟 Lume na Natureza
+
+O Lume não pertence apenas às civilizações.
+
+Toda a natureza interage com ele em algum nível.
+
+Algumas plantas acumulam Lume.
+
+Alguns animais o consomem.
+
+Outros aprenderam a convertê-lo em calor, eletricidade, luz ou substâncias químicas.
+
+Em regiões extremamente ricas em Lume, novas espécies podem surgir ao longo de poucas gerações.
+
+### 🌌 Espécies Endêmicas
+
+Ao invés de simplesmente existir "biomas", existem espécies que só existem em um único Domínio.
+
+Tipo:
+
+"A Flor de Vidro só cresce no Domínio 4827-B."
+
+Ou:
+
+"Os Leviatãs Celestes apenas cruzam o Orbital de Nareth uma vez a cada 190 anos."
+
+Isso transforma um simples mapa em algo valioso. Conhecer onde uma espécie vive pode significar riqueza, prestígio científico ou até salvar uma expedição.
+
+---
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Fauna
-- [ ] Flora
 - [ ] Religiões
 - [ ] História do mundo
 - [ ] Governos
