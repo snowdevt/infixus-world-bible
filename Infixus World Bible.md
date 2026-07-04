@@ -17,7 +17,7 @@ O sistema de poder possui três pilares principais:
 
 ## 🌌 Mundo e Cosmologia
 
-### 🪐 Astera (Nome provisório do mundo)
+### 🪐 Astera (Nome do mundo)
 Astera é considerado infinito. Nenhum mapa conhecido cobre sequer uma fração dele.
 
 ### 🌐 Domínios
@@ -73,7 +73,7 @@ Um Impact é uma marca permanente gravada na alma.
 #### 📈 Progressão dos Impacts
 Cada Impact possui uma "Constelação" composta por habilidades. Cada desbloqueio exige condições específicas da história.
 
-**Níveis Provisórios:**
+**Níveis:**
 1. Facetas
 2. Aspectos
 3. Ecos
