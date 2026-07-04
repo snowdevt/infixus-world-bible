@@ -769,8 +769,115 @@ Isso transforma um simples mapa em algo valioso. Conhecer onde uma espécie vive
 
 ---
 
+## ⛩️ Religiões
+
+Assim como idiomas e culturas, as religiões variam enormemente entre os Domínios.
+
+Não existe uma religião universal.
+
+Algumas civilizações veneram divindades.
+
+Outras cultuam fenômenos naturais.
+
+Algumas acreditam que o universo surgiu espontaneamente.
+
+Outras rejeitam completamente qualquer forma de espiritualidade.
+
+Até o momento, nenhuma religião conseguiu provar definitivamente sua origem ou suas crenças.
+
+Por esse motivo, conflitos religiosos costumam estar ligados mais à cultura do que a fatos comprovados.
+
+### 📖 Classificação Religiosa
+
+Pesquisadores costumam dividir as religiões conhecidas em cinco grandes categorias.
+
+#### Teístas
+
+Acreditam na existência de uma ou mais divindades conscientes.
+
+---
+
+#### Naturalistas
+
+Consideram que o próprio universo é sagrado.
+
+Domínios, Orbitais, Núcleos e o Lume são vistos como manifestações naturais da criação.
+
+---
+
+#### Ancestrais
+
+Cultuam antepassados, heróis ou figuras históricas.
+
+Acreditam que suas almas continuam influenciando o mundo.
+
+---
+
+#### Filosóficas
+
+Não adoram nenhuma entidade.
+
+Enxergam a religião como um conjunto de princípios para viver.
+
+---
+
+#### Desconhecidas
+
+Religiões registradas, porém pouco compreendidas.
+
+Muitas pertencem a civilizações isoladas.
+
+---
+
+### 🌟 O Lume nas Religiões
+
+Quase todas as religiões tentam explicar a origem do Lume.
+
+Algumas afirmam que ele representa a energia da criação.
+
+Outras acreditam que seja apenas uma força natural.
+
+Também existem crenças que defendem que o Lume é composto pelas memórias de todas as formas de vida que já existiram.
+
+Até o momento, nenhuma dessas teorias foi comprovada.
+
+### 🛕 Os Altares
+
+Diversas religiões consideram os Altares locais sagrados.
+
+Algumas acreditam que foram criados por divindades.
+
+Outras defendem que são estruturas naturais do universo.
+
+Não existe consenso sobre sua origem.
+
+Mesmo pesquisadores que rejeitam explicações religiosas reconhecem que os Altares desafiam completamente o conhecimento científico atual.
+
+### 🌿 Religiões Raciais
+
+Algumas Grandes Famílias desenvolveram tradições próprias.
+
+Os Sylven, por exemplo, costumam enxergar a natureza como parte inseparável da própria existência.
+
+Entretanto, nem todos seguem a mesma fé.
+
+Religião é considerada um aspecto cultural, e não uma característica racial.
+
+### ❓ A Igreja do Desconhecido
+
+Entre as maiores correntes filosófico-religiosas de Astera está a chamada Igreja do Desconhecido.
+
+Seus seguidores acreditam que nenhuma civilização jamais compreenderá completamente o universo.
+
+Para eles, buscar respostas é mais importante do que encontrá-las.
+
+A exploração é considerada uma forma de devoção.
+
+Descobrir algo novo significa compreender um pouco mais da criação.
+
+
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Religiões
 - [ ] História do mundo
 - [ ] Governos
 - [ ] Linha do tempo
