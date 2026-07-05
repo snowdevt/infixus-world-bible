@@ -1477,8 +1477,153 @@ Diversas invenções nasceram da tentativa de compreender criaturas, Altares, Fr
 
 Em Astera, ciência e exploração evoluem lado a lado.
 
+---
 
+## 🧭 Sistema de Exploração
+
+A exploração é considerada uma das atividades mais importantes de Astera.
+
+Muito mais do que descobrir novos lugares, explorar significa compreender o desconhecido.
+
+Grande parte do conhecimento atual sobre Domínios, Orbitais, espécies, tecnologias e fenômenos naturais surgiu através de expedições.
+
+Por esse motivo, exploradores ocupam uma posição de enorme importância dentro da sociedade.
+
+### 📖 Expedições
+
+Uma Expedição é qualquer missão organizada cujo objetivo seja investigar regiões ainda pouco conhecidas.
+
+Expedições podem possuir diversos propósitos.
+
+Entre eles:
+
+- cartografia;
+- pesquisa científica;
+- coleta de recursos;
+- documentação histórica;
+- estudo de criaturas;
+- investigação de fenômenos;
+- busca por Altares;
+- abertura de novas rotas.
+
+### 🧭 Especializações
+
+Embora todos sejam chamados de exploradores, suas funções costumam variar.
+
+#### Cartógrafos
+
+Mapeiam Domínios e registram rotas.
+
+---
+
+#### Naturalistas
+
+Documentam fauna, flora e ecossistemas.
+
+---
+
+#### Arqueólogos
+
+Investigam ruínas, estruturas antigas e artefatos.
+
+---
+
+#### Pesquisadores
+
+Estudam fenômenos relacionados ao Lume, Altares e tecnologias.
+
+---
+
+#### Guias
+
+Especialistas em sobreviver a Domínios extremamente perigosos.
+
+---
+
+#### Observadores
+
+Registram culturas, idiomas, governos e costumes de novas civilizações.
+
+### 📚 Registro de Expedição
+
+Toda expedição pode produzir um Registro.
+
+Esses documentos descrevem tudo o que foi observado durante a exploração.
+
+Um Registro pode conter:
+
+- mapas;
+- espécies;
+- fenômenos;
+- rotas;
+- culturas;
+- recursos;
+- riscos;
+- alterações ambientais.
+
+Após serem analisados pelo Registro Global, novos conhecimentos podem tornar-se oficiais.
+
+### 🌍 Exploração Contínua
+
+Nenhum Domínio é considerado completamente explorado.
+
+Mesmo regiões amplamente conhecidas continuam sendo revisitadas.
+
+Mudanças climáticas, migrações, alterações de Lume e transformações naturais podem modificar completamente um ambiente ao longo do tempo.
+
+### ⚠️ Nível de Exploração
+
+O Registro Global classifica cada região conforme a quantidade de conhecimento disponível.
+
+#### Catalogada
+
+Grande quantidade de informações confiáveis.
+
+---
+
+#### Parcialmente Catalogada
+
+Existem registros, porém muitas informações permanecem incompletas.
+
+---
+
+#### Pouco Conhecida
+
+Apenas pequenas expedições retornaram.
+
+---
+
+#### Não Catalogada
+
+Nenhuma informação confiável existe.
+
+---
+
+#### Perdida
+
+Já foi explorada anteriormente, porém todo conhecimento disponível tornou-se insuficiente ou foi perdido.
+
+### 🏆 Descobertas
+
+Toda descoberta oficialmente confirmada recebe um registro próprio.
+
+O autor da descoberta permanece associado a ela nos arquivos do Registro Global.
+
+Diversas carreiras foram construídas graças à documentação de novas espécies, Domínios, fenômenos e tecnologias.
+
+### 🗺️ Cartografia Viva
+
+Mapas em Astera nunca são considerados definitivos.
+
+Novas rotas surgem.
+
+Outras desaparecem.
+
+Domínios transformam-se.
+
+Fenômenos alteram a geografia.
+
+Por esse motivo, mapas antigos continuam sendo valiosos, mesmo quando já não representam completamente a realidade.
 
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Sistema de exploração
 - [ ] Transporte
