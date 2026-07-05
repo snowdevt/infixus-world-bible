@@ -1625,5 +1625,86 @@ Fenômenos alteram a geografia.
 
 Por esse motivo, mapas antigos continuam sendo valiosos, mesmo quando já não representam completamente a realidade.
 
+---
+
+## 🚆 Transporte
+
+Devido às enormes diferenças entre Domínios, não existe um sistema de transporte universal.
+
+Cada civilização desenvolveu métodos próprios para atravessar grandes distâncias, adaptando seus veículos às condições naturais de seu ambiente.
+
+Como consequência, diferentes tecnologias e criaturas passaram a desempenhar papéis importantes na mobilidade entre regiões.
+
+### 📖 Classificação dos Transportes
+
+O Registro Global divide os sistemas de transporte em quatro categorias principais.
+
+#### Terrestres
+
+Utilizados em Domínios onde o deslocamento por terra é viável.
+
+Incluem veículos, montarias e plataformas móveis.
+
+---
+
+#### Aquáticos
+
+Empregados em oceanos, lagos, rios e mares internos.
+
+Podem variar desde pequenas embarcações até cidades flutuantes.
+
+---
+
+#### Aéreos
+
+Desenvolvidos para regiões montanhosas, arquipélagos suspensos ou Domínios onde o voo é mais eficiente que o deslocamento terrestre.
+
+---
+
+#### Interdomínio
+
+Métodos capazes de atravessar as fronteiras naturais entre diferentes Domínios.
+
+### 🏗️ Infraestrutura
+
+Algumas regiões possuem estradas, pontes, portos e estações altamente desenvolvidas.
+
+Outras dependem exclusivamente da geografia local.
+
+Em muitos Domínios, a infraestrutura precisa ser reconstruída constantemente devido às mudanças naturais do ambiente.
+
+### 🐉 Transporte Biológico
+
+Nem todos os meios de transporte são artificiais.
+
+Diversas civilizações domesticaram criaturas capazes de transportar pessoas ou cargas através de ambientes extremamente hostis.
+
+Essas espécies variam significativamente entre os diferentes Domínios.
+
+### ⚠️ Segurança
+
+Mesmo as rotas consideradas estáveis continuam apresentando riscos.
+
+Mudanças climáticas, migrações de criaturas, alterações geográficas e fenômenos relacionados ao Lume podem interromper viagens sem qualquer aviso prévio.
+
+Por esse motivo, longas viagens costumam exigir planejamento e documentação atualizada.
+
+### 🗺️ Rotas
+
+Rotas comerciais e de exploração são constantemente atualizadas pelo Registro Global e pela Guilda dos Exploradores.
+
+A descoberta de um caminho mais seguro pode alterar completamente o desenvolvimento econômico de uma região.
+
+Da mesma forma, o desaparecimento de uma rota importante pode isolar civilizações durante décadas.
+
+### 🌍 Adaptação
+
+Nenhum sistema de transporte é considerado superior em todos os ambientes.
+
+Cada solução foi desenvolvida para atender às necessidades específicas de seu Domínio.
+
+A eficiência de um meio de transporte depende sempre das condições locais.
+
+
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Transporte
