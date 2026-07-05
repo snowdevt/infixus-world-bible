@@ -15,6 +15,196 @@ O sistema de poder possui três pilares principais:
 
 ---
 
+## 📖 Glossário
+
+Esta seção reúne definições resumidas dos principais conceitos utilizados em Astera.
+
+O objetivo é servir como referência rápida durante a leitura desta World Bible.
+
+Caso uma definição entre em conflito com sua seção específica, prevalece sempre a informação apresentada na seção principal.
+
+### A
+
+#### Altar
+
+Estrutura de origem desconhecida capaz de conceder Técnicas permanentes através de um ritual.
+
+Sua origem permanece desconhecida.
+
+---
+
+#### Altar Artificial
+
+Estrutura construída artificialmente tentando reproduzir um Altar verdadeiro.
+
+Pode funcionar parcialmente, falhar completamente ou causar efeitos imprevisíveis.
+
+### C
+
+#### Constelação
+
+Nome dado ao conjunto completo de habilidades pertencentes a um Impact.
+
+Cada Constelação é exclusiva de seu usuário.
+
+---
+
+#### Criatura
+
+Organismo vivo que não pertence necessariamente às Grandes Famílias Raciais.
+
+Pode possuir qualquer nível de inteligência.
+
+### D
+
+#### Domínio
+
+Grande região do universo que possui suas próprias características naturais.
+
+Cada Domínio pode apresentar clima, geografia e até leis físicas diferentes.
+
+---
+
+#### Dormant
+
+Estado em que um indivíduo produz Lume naturalmente, porém não consegue manipulá-lo.
+
+### E
+
+#### Echo
+
+Estado Resonant no qual a alma desperta um Impact.
+
+*(Se a gente mudar Resonant no futuro, atualiza aqui também.)*
+
+---
+
+#### Economia
+
+Sistema de circulação de recursos entre civilizações.
+
+Em Astera não existe uma moeda universal.
+
+### F
+
+#### Fragmento de Lume
+
+Cristal formado naturalmente pela condensação de Lume.
+
+Muito utilizado como fonte energética e recurso econômico.
+
+### G
+
+#### Grandes Famílias
+
+Classificação científica utilizada para agrupar espécies semelhantes.
+
+Não representa parentesco absoluto.
+
+---
+
+#### Grau Cognitivo
+
+Sistema utilizado pelo Registro Global para medir o nível de inteligência de uma criatura.
+
+### I
+
+#### Impact
+
+Marca espiritual exclusiva de uma alma Resonant.
+
+Representa um poder capaz de evoluir através da experiência e das condições específicas de sua Constelação.
+
+---
+
+#### Infixus
+
+Nome da história principal ambientada em Astera.
+
+### L
+
+#### Língua Comum
+
+Idioma internacional utilizado por exploradores, comerciantes e pesquisadores.
+
+---
+
+#### Lume
+
+Energia universal presente em todos os seres vivos.
+
+É o combustível utilizado por praticamente todas as formas conhecidas de manipulação energética.
+
+### N
+
+#### Núcleo
+
+Estrutura central existente em um Orbital.
+
+Apresenta concentrações extremas de Lume e fenômenos espaciais ainda não compreendidos.
+
+### O
+
+#### Orbital
+
+Conjunto de Domínios menores que orbitam um gigantesco Núcleo central.
+
+### P
+
+#### Pré-Registro
+
+Classificação utilizada para qualquer objeto, estrutura ou acontecimento anterior ao Primeiro Registro.
+
+---
+
+#### Primeiro Registro
+
+Documento histórico mais antigo oficialmente reconhecido pelo Registro Global.
+
+Marca o início da história documentada.
+
+### R
+
+#### Registro Global
+
+Maior organização científica conhecida.
+
+Responsável por catalogar praticamente todo o conhecimento confirmado de Astera.
+
+---
+
+#### Resonant
+
+Estado no qual uma alma torna-se capaz de despertar um Impact.
+
+### S
+
+#### Sylven
+
+Grande Família Espiritual extremamente rara.
+
+Apresenta características humanas, espirituais e vegetais simultaneamente.
+
+### T
+
+#### Técnica
+
+Habilidade adquirida através de um Altar.
+
+Não evolui.
+
+O usuário pode aperfeiçoar seu domínio sobre ela, porém sua natureza permanece inalterada.
+
+### U
+
+#### Universo Conhecido
+
+Conjunto de regiões oficialmente documentadas pelo Registro Global.
+
+Representa apenas uma pequena fração de Astera.
+
+---
+
 ## 🌌 Mundo e Cosmologia
 
 ### 🪐 Astera (Nome do mundo)
@@ -1104,7 +1294,6 @@ A história principal de Infixus começa neste período.
 
 
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Glossário
 - [ ] Regras universais
 - [ ] Tecnologia
 - [ ] Sistema de exploração
