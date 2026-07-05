@@ -234,6 +234,156 @@ Concentram uma quantidade absurda de **Lume**. Quanto mais perto se chega do nú
 
 ---
 
+## 🌍 Domínio da Vida
+
+O Domínio da Vida é considerado o maior centro urbano, científico e cultural conhecido de Astera.
+
+Embora seja frequentemente chamado de "Cidade da Vida", trata-se, na realidade, de um enorme Domínio composto por milhares de cidades interligadas.
+
+Ao longo de incontáveis gerações, diferentes povos construíram novas cidades, expandiram antigas e conectaram regiões inteiras através de uma infraestrutura compartilhada.
+
+Nenhuma civilização pode reivindicar sua criação.
+
+O Domínio da Vida é resultado do trabalho coletivo de incontáveis povos ao longo da história.
+
+Atualmente, estima-se que entre 8% e 15% da população conhecida de Astera resida permanentemente no Domínio da Vida.
+
+Apesar dessa enorme concentração populacional, grande parte do território permanece em constante expansão.
+
+### 🌿 Fenômeno da Restauração
+
+Todo o Domínio da Vida apresenta um fenômeno natural único.
+
+Qualquer organismo vivo localizado em seu interior tende a retornar lentamente ao seu estado saudável.
+
+Ferimentos cicatrizam com maior velocidade.
+
+Plantas recuperam partes danificadas.
+
+Tecidos vivos regeneram naturalmente.
+
+Entretanto, esse fenômeno possui limitações.
+
+Ele não impede o envelhecimento.
+
+Não elimina doenças automaticamente.
+
+Não restaura indivíduos mortos.
+
+Pesquisadores ainda não compreendem a origem desse fenômeno.
+
+### 🏙️ Estrutura Urbana
+
+O Domínio da Vida não possui uma capital oficial.
+
+Em vez disso, milhares de cidades altamente especializadas coexistem e cooperam entre si.
+
+Alguns exemplos incluem:
+
+- cidades acadêmicas;
+- cidades industriais;
+- cidades portuárias;
+- cidades suspensas;
+- cidades marítimas;
+- cidades agrícolas;
+- cidades comerciais.
+
+Cada cidade mantém sua própria administração, cultura e identidade, compartilhando infraestrutura, conhecimento e recursos com as demais.
+
+### ⚙️ Centro Tecnológico
+
+Grande parte das tecnologias modernas de Astera foi desenvolvida ou aperfeiçoada no Domínio da Vida.
+
+Veículos movidos a Lume, sistemas de comunicação, engenharia urbana e equipamentos científicos costumam surgir inicialmente em suas cidades antes de serem difundidos para outras regiões.
+
+### 🚆 Rede de Transporte
+
+As cidades do Domínio da Vida são conectadas por uma extensa rede de transporte baseada em Lume.
+
+Entre os meios mais comuns encontram-se:
+
+- trens de Lume;
+- navios de Lume;
+- aeronaves leves;
+- veículos urbanos;
+- plataformas automatizadas.
+
+Essa infraestrutura é constantemente expandida conforme novas cidades são construídas.
+
+### 🏛️ Centro das Organizações
+
+Diversas organizações internacionais estabeleceram suas sedes dentro do Domínio da Vida.
+
+Entre elas encontram-se instituições científicas, comerciais, educacionais e de exploração.
+
+A proximidade entre essas organizações tornou o Domínio da Vida o principal centro diplomático conhecido de Astera.
+
+### ❤️ Guardas da Vida
+
+Os Guardas da Vida constituem uma força internacional responsável por proteger parte das cidades do Domínio da Vida.
+
+A organização surgiu através da cooperação entre diversas instituições que decidiram unir recursos para preservar a segurança da maior concentração populacional conhecida de Astera.
+
+Embora frequentemente atuem em conjunto com governos locais, os Guardas da Vida não pertencem oficialmente a nenhuma cidade específica.
+
+Seu dever é proteger o Domínio da Vida como um todo.
+
+Nem todas as cidades possuem destacamentos permanentes.
+
+Regiões mais pacíficas costumam depender apenas das autoridades locais.
+
+#### 🎖️ Classificação dos Guardas
+
+Os Guardas da Vida utilizam pequenos emblemas em formato de coração para indicar seu nível operacional.
+
+**🩶 Cinza**
+
+Recrutas e guardas iniciantes.
+
+---
+
+**🖤 Negro**
+
+Guardas treinados.
+
+Capazes de atuar em missões comuns.
+
+---
+
+**🤎 Bronze**
+
+Profissionais experientes.
+
+Frequentemente lideram pequenas equipes.
+
+---
+
+**💜 Violeta**
+
+Usuários de Impact reconhecidos oficialmente.
+
+Responsáveis por missões de alto risco.
+
+---
+
+**💚 Esmeralda**
+
+Veteranos extremamente capacitados.
+
+Normalmente comandam operações envolvendo múltiplas cidades.
+
+---
+
+**❤️ Rubi**
+
+Elite dos Guardas da Vida.
+
+Todos possuem múltiplos Impacts documentados ou feitos equivalentes reconhecidos pela organização.
+
+São mobilizados apenas durante crises de grande escala.
+
+---
+
 ## ⚡ Sistema de Poder
 
 ### 🌟 Lume
