@@ -1291,10 +1291,97 @@ Diversos acidentes levam à proibição oficial dessas pesquisas.
 
 A história principal de Infixus começa neste período.
 
+---
 
+## 📜 Regras Universais
+
+Embora Astera seja um universo praticamente infinito e repleto de fenômenos desconhecidos, pesquisadores identificaram princípios que jamais foram observados sendo quebrados.
+
+Esses princípios são chamados de **Regras Universais**.
+
+Até o momento, nenhuma delas apresentou exceções confirmadas.
+
+### 1. Uma alma possui no máximo três Impacts.
+
+Nenhum indivíduo documentado despertou um quarto Impact.
+
+Caso múltiplos Impacts sejam obtidos, todos permanecem vinculados à mesma alma.
+
+A perda permanente de um Impact também nunca foi registrada naturalmente.
+
+### 2. Técnicas de Altar não evoluem.
+
+Uma Técnica sempre manterá sua natureza original.
+
+O usuário pode aperfeiçoar seu domínio sobre ela, porém a Técnica em si nunca muda.
+
+### 3. Nenhum Impact pode criar outro Impact.
+
+Impacts podem fortalecer, modificar ou interagir entre si.
+
+Entretanto, nenhum Impact conhecido foi capaz de conceder permanentemente um novo Impact a outra alma.
+
+### 4. O Lume não pode ser criado.
+
+Todo Lume utilizado já existia anteriormente.
+
+Ele apenas muda de forma, localização ou concentração.
+
+### 5. Nada é eterno.
+
+Toda estrutura conhecida sofre transformações com o tempo.
+
+Domínios mudam.
+
+Espécies evoluem.
+
+Civilizações desaparecem.
+
+Nem mesmo Orbitais permanecem exatamente iguais para sempre.
+
+### 6. Nenhum conhecimento é completo.
+
+Todo registro científico pode ser revisado diante de novas descobertas.
+
+Mesmo documentos considerados oficiais permanecem sujeitos a correções.
+
+### 7. A classificação não altera a realidade.
+
+Toda classificação criada pelo Registro Global existe apenas para facilitar o estudo do universo.
+
+Uma criatura não se torna mais forte ou mais fraca por pertencer a determinada categoria.
+
+As categorias descrevem o mundo.
+
+Não o definem.
+
+### 8. Todo fenômeno possui uma causa.
+
+Nem toda causa pode ser compreendida.
+
+Entretanto, nenhum acontecimento confirmado ocorreu sem uma origem.
+
+Quando uma explicação não é encontrada, o fenômeno permanece classificado como desconhecido, jamais como impossível.
+
+### 9. O desconhecido faz parte do universo.
+
+A ausência de respostas não representa uma falha do conhecimento.
+
+Ela representa apenas os limites atuais da compreensão das civilizações.
+
+### 10. O universo não gira em torno de um único indivíduo.
+
+Nenhuma pessoa, organização ou civilização possui influência suficiente para controlar Astera por completo.
+
+O universo continua existindo independentemente de qualquer protagonista, governante ou Impacts extraordinários.
+
+### Princípios Ainda Não Verificados
+
+Alguns pesquisadores acreditam que existam outras Regras Universais ainda não descobertas.
+
+Até o momento, nenhuma delas pôde ser confirmada.
 
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Regras universais
 - [ ] Tecnologia
 - [ ] Sistema de exploração
 - [ ] Transporte
