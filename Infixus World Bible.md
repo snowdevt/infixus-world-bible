@@ -675,29 +675,6 @@ muitos acreditam que controla governos através da economia.
 
 ---
 
-## 👤 Personagens
-
-### Protagonista: Lushy
-- **Sexo:** Masculino
-- **Idade:** 18 anos
-- **Raça:** Sylven
-- **Personalidade:** Sempre brincando. É quase impossível vê-lo sério. Por trás disso, é extremamente sensível emocionalmente e usa o humor para esconder suas inseguranças. Não gosta de lutar e prefere resolver os problemas com criatividade.
-
-#### 💥 Impact do Protagonista: Flourish
-- **Especialidade:** Acelerar potenciais existentes.
-  - Não cria potencial.
-  - Não copia poderes.
-- **Pode desenvolver:** Cura, adaptação, aprendizado, evolução e crescimento.
-- **Subhabilidades atuais (provisórias):**
-  - Bloom Analysis
-  - Harvest
-  - Nurture
-  - Overgrowth
-  
-> *As nomenclaturas internas das subhabilidades serão revisadas no futuro.*
-
----
-
 ## 🎭 Temas Principais da Obra
 - 🧭 Exploração
 - 🕵️ Mistério
