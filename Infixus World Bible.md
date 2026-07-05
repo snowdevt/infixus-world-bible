@@ -947,9 +947,163 @@ A exploração permanece como a principal força responsável pelo avanço das c
 
 ---
 
+## 🏛️ Governos
+
+O tamanho praticamente infinito de Astera impossibilita a existência de um governo capaz de administrar todo o universo conhecido.
+
+Cada civilização desenvolveu seus próprios modelos políticos ao longo da história.
+
+Em muitos Domínios coexistem dezenas de governos independentes, enquanto outros sequer possuem qualquer forma de organização centralizada.
+
+Nenhum sistema político é considerado dominante em Astera.
+
+### 📖 Classificação Governamental
+
+Pesquisadores utilizam categorias para descrever a estrutura política das civilizações conhecidas.
+
+#### Monarquias
+
+Governadas por reis, rainhas ou famílias nobres.
+
+---
+
+#### Repúblicas
+
+O poder é distribuído entre representantes escolhidos pela população ou por grupos específicos.
+
+---
+
+#### Conselhos
+
+As decisões são tomadas por pequenos grupos de especialistas, anciões ou representantes.
+
+---
+
+#### Clãs
+
+O poder pertence às famílias mais influentes.
+
+Muito comum entre espécies Bestiais.
+
+---
+
+#### Teocracias
+
+A autoridade política está diretamente ligada à religião predominante.
+
+---
+
+#### Cidades Livres
+
+Não reconhecem qualquer autoridade externa.
+
+Costumam ser grandes centros comerciais.
+
+---
+
+#### Nômades
+
+Civilizações sem território permanente.
+
+Deslocam-se constantemente entre Domínios.
+
+### Relação com Organizações
+
+Embora governos administrem territórios específicos, organizações internacionais frequentemente exercem influência muito além de qualquer fronteira.
+
+O Registro Global, a Guilda dos Exploradores e o Consórcio Comercial atuam em diversos governos diferentes.
+
+Na prática, algumas organizações possuem influência comparável ou até superior à de pequenos Estados.
+
+### Conflitos
+
+Guerras continuam existindo em Astera.
+
+Entretanto, devido às enormes distâncias entre Domínios, disputas territoriais costumam ser locais.
+
+Conflitos envolvendo recursos, rotas comerciais, Fragmentos de Lume ou Altares são muito mais comuns do que guerras de conquista em larga escala.
+
+---
+
+## 📅 Linha do Tempo
+
+A cronologia oficial de Astera utiliza como referência o Primeiro Registro.
+
+Todos os acontecimentos históricos documentados são registrados em relação a esse marco.
+
+Eventos anteriores permanecem classificados como Pré-Registro.
+
+### Antes do Primeiro Registro
+
+A verdadeira história desse período permanece completamente desconhecida.
+
+Ruínas, Altares, construções e diversos artefatos indicam que civilizações existiram antes do Primeiro Registro.
+
+Entretanto, nenhuma sequência histórica confiável pôde ser reconstruída.
+
+### Principais Eventos Históricos
+
+#### Primeiro Registro
+
+Marco inicial da história documentada.
+
+---
+
+#### Primeiras Grandes Explorações
+
+Civilizações iniciam a exploração sistemática dos Domínios.
+
+---
+
+#### Formação das Primeiras Rotas
+
+Expedições estabelecem caminhos relativamente seguros entre diferentes regiões.
+
+O comércio entre civilizações cresce significativamente.
+
+---
+
+#### Descoberta dos Orbitais
+
+Pesquisadores confirmam que diversos Domínios orbitam estruturas centrais gigantescas.
+
+O conceito de Orbital passa a integrar oficialmente o Registro Global.
+
+---
+
+#### Estudos sobre os Altares
+
+As primeiras Técnicas documentadas passam a ser registradas oficialmente.
+
+---
+
+#### Fundação do Registro Global
+
+Pesquisadores unem esforços para criar um sistema internacional de catalogação.
+
+---
+
+#### Fundação da Guilda dos Exploradores
+
+Explorações passam a receber suporte institucional.
+
+---
+
+#### Criação dos Primeiros Altares Artificiais
+
+Pesquisadores tentam reproduzir os Altares naturais.
+
+Diversos acidentes levam à proibição oficial dessas pesquisas.
+
+---
+
+#### Era Atual
+
+A história principal de Infixus começa neste período.
+
+
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Governos
-- [ ] Linha do tempo
 - [ ] Glossário
 - [ ] Regras universais
 - [ ] Tecnologia
