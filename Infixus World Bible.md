@@ -1381,7 +1381,104 @@ Alguns pesquisadores acreditam que existam outras Regras Universais ainda não d
 
 Até o momento, nenhuma delas pôde ser confirmada.
 
+---
+
+## ⚙️ Tecnologia
+
+A tecnologia em Astera evoluiu de maneira extremamente desigual.
+
+Enquanto algumas civilizações utilizam ferramentas simples, outras desenvolveram equipamentos altamente sofisticados.
+
+Essa diferença não está necessariamente ligada ao tempo.
+
+Ela depende principalmente dos recursos disponíveis, da presença de Lume e das condições naturais de cada Domínio.
+
+Por esse motivo, duas cidades separadas por poucos Domínios podem apresentar níveis tecnológicos completamente diferentes.
+
+### 🌟 Tecnologia e Lume
+
+O Lume revolucionou praticamente todas as áreas da tecnologia.
+
+Embora não substitua completamente os recursos naturais, sua capacidade de alimentar equipamentos permitiu o surgimento de ferramentas impossíveis em condições comuns.
+
+A maioria das tecnologias avançadas utiliza Fragmentos de Lume como fonte energética.
+
+### 📖 Classificação Tecnológica
+
+O Registro Global utiliza quatro categorias para descrever o desenvolvimento tecnológico de uma civilização.
+
+#### Primitiva
+
+Ferramentas simples.
+
+Pouca utilização de Lume.
+
+---
+
+#### Mecânica
+
+Máquinas básicas e infraestrutura organizada.
+
+Utilização limitada de Fragmentos de Lume.
+
+---
+
+#### Lumínica
+
+Grande integração entre engenharia e Lume.
+
+Equipamentos especializados tornam-se comuns.
+
+---
+
+#### Avançada
+
+Tecnologias cuja construção depende de conhecimentos altamente específicos.
+
+Mesmo civilizações avançadas frequentemente não compreendem completamente o funcionamento de seus próprios equipamentos.
+
+### 🛠️ Equipamentos
+
+Diversos equipamentos foram desenvolvidos para facilitar a exploração.
+
+Entre eles:
+
+- lanternas de Lume;
+- bússolas adaptativas;
+- analisadores biológicos;
+- ferramentas de sobrevivência;
+- equipamentos cartográficos;
+- instrumentos de comunicação;
+- dispositivos de navegação.
+
+### 🏗️ Engenharia
+
+As construções variam enormemente entre civilizações.
+
+Algumas cidades utilizam apenas pedra e madeira.
+
+Outras incorporam estruturas alimentadas por Lume capazes de permanecer operando durante séculos.
+
+Apesar disso, nenhuma tecnologia conhecida consegue alterar permanentemente as Regras Universais.
+
+### ⚔️ Armamentos
+
+A tecnologia também influenciou o desenvolvimento de armas e equipamentos defensivos.
+
+Entretanto, armamentos tecnológicos não substituem treinamento, domínio do Lume ou o poder de um Impact.
+
+Mesmo os equipamentos mais avançados apresentam limitações naturais.
+
+### 🔬 Pesquisa
+
+Grande parte do avanço tecnológico ocorre através da observação do próprio universo.
+
+Diversas invenções nasceram da tentativa de compreender criaturas, Altares, Fragmentos de Lume e fenômenos naturais.
+
+Em Astera, ciência e exploração evoluem lado a lado.
+
+
+
 ## 📝 Itens a Desenvolver (To-Do)
-- [ ] Tecnologia
 - [ ] Sistema de exploração
 - [ ] Transporte
