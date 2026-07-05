@@ -1,4 +1,4 @@
-# 🌍 Infixus - World Bible (DRAFT v0.2)
+# 🌍 Infixus - World Bible [V1]
 
 ---
 
@@ -1855,6 +1855,141 @@ Cada solução foi desenvolvida para atender às necessidades específicas de se
 
 A eficiência de um meio de transporte depende sempre das condições locais.
 
+---
 
+## 👥 Sociedade
+
+Apesar das enormes diferenças entre Domínios, algumas características sociais tornaram-se comuns em grande parte de Astera.
+
+Esses costumes surgiram naturalmente ao longo da história através do contato entre diferentes povos, da expansão da Língua Comum e da influência de organizações internacionais.
+
+Ainda assim, cada civilização preserva tradições próprias, tornando impossível definir uma única cultura para todo o universo.
+
+### 📚 Educação
+
+Não existe um sistema educacional universal.
+
+Cada governo ou comunidade organiza sua própria forma de ensino.
+
+Entretanto, conteúdos considerados essenciais costumam aparecer em praticamente todas as escolas conhecidas.
+
+Entre eles:
+
+- Língua Comum;
+- matemática;
+- história regional;
+- noções básicas sobre Lume;
+- segurança durante viagens;
+- geografia local.
+
+Instituições maiores também oferecem formação especializada em áreas como pesquisa, engenharia, medicina, cartografia, comércio e exploração.
+
+O acesso ao ensino varia significativamente entre diferentes Domínios.
+
+### 💼 Profissões
+
+Astera apresenta uma enorme variedade de profissões.
+
+Algumas existem em praticamente qualquer civilização.
+
+Exemplos incluem:
+
+- agricultores;
+- pesquisadores;
+- comerciantes;
+- engenheiros;
+- médicos;
+- exploradores;
+- artesãos;
+- construtores;
+- professores;
+- navegadores;
+- guardas.
+
+O uso de Impacts raramente define uma profissão.
+
+Na maioria dos casos, eles apenas ampliam as capacidades naturais de seus usuários.
+
+### 🏡 Família
+
+As estruturas familiares variam entre espécies e culturas.
+
+Enquanto algumas sociedades vivem em pequenos núcleos familiares, outras organizam-se em grandes comunidades compostas por dezenas ou centenas de indivíduos.
+
+Não existe um modelo considerado padrão pelo Registro Global.
+
+### 🎂 Maioridade
+
+A idade considerada adulta depende da espécie e da cultura.
+
+Entre Humanos, normalmente ocorre entre 17 e 20 anos.
+
+Espécies de vida longa costumam atingir a maioridade muito mais tarde.
+
+Por esse motivo, documentos oficiais geralmente registram tanto a idade cronológica quanto o estágio de desenvolvimento da espécie.
+
+### 🩺 Saúde
+
+A medicina combina conhecimentos biológicos, tecnologias e manipulação de Lume.
+
+Grandes centros urbanos costumam possuir hospitais altamente especializados, enquanto regiões isoladas dependem principalmente de curandeiros locais.
+
+Apesar dos avanços médicos, doenças desconhecidas continuam surgindo em Domínios recém-descobertos.
+
+### 🍞 Alimentação
+
+A culinária varia drasticamente entre diferentes regiões.
+
+A disponibilidade de ingredientes depende diretamente da fauna, flora e condições ambientais de cada Domínio.
+
+Alguns alimentos considerados comuns em uma região podem ser completamente desconhecidos em outra.
+
+### 🏠 Moradia
+
+A arquitetura adapta-se às condições naturais de cada Domínio.
+
+Cidades localizadas em ambientes extremos frequentemente utilizam materiais e técnicas inexistentes em outras regiões.
+
+Mesmo dentro do Domínio da Vida é comum encontrar estilos arquitetônicos completamente diferentes entre cidades vizinhas.
+
+### 🎭 Cultura
+
+Música, dança, pintura, literatura e outras formas de expressão artística estão presentes em praticamente todas as civilizações conhecidas.
+
+O intercâmbio cultural tornou-se especialmente intenso após o surgimento das grandes rotas comerciais e da expansão da Língua Comum.
+
+Ainda assim, tradições locais permanecem como parte importante da identidade de cada povo.
+
+### 🏅 Esportes
+
+Competições esportivas fazem parte da cultura de inúmeras civilizações.
+
+Embora as modalidades variem conforme a região, eventos envolvendo estratégia, velocidade, resistência e domínio do Lume costumam atrair grande público.
+
+O uso de Impacts em competições depende das regras estabelecidas pelos organizadores.
+
+### 📨 Comunicação
+
+Mensagens podem ser transportadas por mensageiros, criaturas domesticadas ou tecnologias baseadas em Lume.
+
+Regiões altamente desenvolvidas utilizam sistemas rápidos de comunicação, enquanto áreas remotas ainda dependem de métodos tradicionais.
+
+### 🤝 Convivência
+
+O contato entre diferentes espécies tornou-se comum em grande parte de Astera.
+
+Embora conflitos e preconceitos ainda existam, principalmente em regiões isoladas, cidades cosmopolitas como as do Domínio da Vida abrigam comunidades extremamente diversas.
+
+O Registro Global desencoraja qualquer classificação baseada em superioridade racial, reconhecendo apenas diferenças biológicas, culturais e históricas.
+
+### 🌍 Identidade Individual
+
+Em Astera, a espécie de um indivíduo representa apenas uma de suas características.
+
+Profissão, cultura, cidade natal, idioma, experiências pessoais e organizações às quais pertence frequentemente exercem influência muito maior sobre sua identidade.
+
+Por esse motivo, duas pessoas da mesma espécie podem apresentar estilos de vida completamente diferentes, enquanto indivíduos de espécies distintas podem compartilhar costumes quase idênticos.
+
+---
 
 ## 📝 Itens a Desenvolver (To-Do)
